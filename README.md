@@ -58,8 +58,12 @@ Nine numpy-only neural networks that learned purely from physics simulations lai
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pyodide-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/D3-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -72,9 +76,11 @@ Nine numpy-only neural networks that learned purely from physics simulations lai
 |---|---|---|
 | [ML-Ratchet](https://github.com/dogum/ML-Ratchet) | Physics-first ML: nine models trained only on simulations, graded on real data they never saw | ![](https://img.shields.io/github/stars/dogum/ML-Ratchet?style=flat-square&label=) |
 | [html-artifacts](https://github.com/dogum/html-artifacts) | Claude skill that builds self-contained HTML pages when markdown isn't enough | ![](https://img.shields.io/github/stars/dogum/html-artifacts?style=flat-square&label=) |
+| [kernel](https://github.com/dogum/kernel) | A full Python notebook in one self-contained HTML file, running in the browser via Pyodide. No install, no server. Plus a Claude skill | ![](https://img.shields.io/github/stars/dogum/kernel?style=flat-square&label=) |
 | [procedural-art](https://github.com/dogum/procedural-art) | Mountains, glass and paintings rendered from code and real elevation data. Two Claude skills, no image model | ![](https://img.shields.io/github/stars/dogum/procedural-art?style=flat-square&label=) |
 | [underfoot](https://github.com/dogum/underfoot) | What's on the ground at any GPS point or path, estimated from free open data. No API keys | ![](https://img.shields.io/github/stars/dogum/underfoot?style=flat-square&label=) |
 | [stride-atlas](https://github.com/dogum/stride-atlas) | Your Apple Health and Strava history as a local dashboard: route atlas, 3D space-time stack, records | ![](https://img.shields.io/github/stars/dogum/stride-atlas?style=flat-square&label=) |
+| [security-sweep](https://github.com/dogum/security-sweep) | Claude skill that patches your machine against this week's security advisories and supply-chain attacks, plus a standalone OSV checker for Python | ![](https://img.shields.io/github/stars/dogum/security-sweep?style=flat-square&label=) |
 | [artifact-shelf](https://github.com/dogum/artifact-shelf) | Gallery template for single-file HTML artifacts, built by one dependency-free Node script | ![](https://img.shields.io/github/stars/dogum/artifact-shelf?style=flat-square&label=) |
 | [selene-isru](https://github.com/dogum/selene-isru) | In-browser trade-space simulator for lunar in-situ resource utilization systems | ![](https://img.shields.io/github/stars/dogum/selene-isru?style=flat-square&label=) |
 
